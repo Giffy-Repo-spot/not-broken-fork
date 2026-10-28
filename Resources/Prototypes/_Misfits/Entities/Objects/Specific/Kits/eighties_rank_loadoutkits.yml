@@ -345,7 +345,7 @@
   id: KitEighties_CylindersShotcaller
   name: cylinders shotcaller kit
   parent: KitBase
-  description: A looted stash with extra meds, fit for a cylinder.
+  description: A kit build around clearing a path for the gang. 
   components:
   - type: Sprite
     state: pointman
