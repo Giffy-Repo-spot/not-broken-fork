@@ -192,7 +192,7 @@
     - type: Clothing
       sprite: Objects/Weapons/Guns/Launchers/pirate_cannon.rsi
     - type: Gun
-      fireRate: .1
+      fireRate: .5
       soundGunshot:
         path: /Audio/Weapons/Guns/Gunshots/mateba.ogg
 
