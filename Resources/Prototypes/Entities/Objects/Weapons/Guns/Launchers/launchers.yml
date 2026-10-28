@@ -173,7 +173,7 @@
   name: Waybreaker
   parent: BaseWeaponLauncher
   id: M14Waybreaker
-  description: A weapon from a bygone era. Who knows how it ended up here. It always seems to have a shot prepared.
+  description: Break anyone who would stand before you.
   components:
     - type: Sprite
       sprite: Objects/Weapons/Guns/Launchers/pirate_cannon.rsi
