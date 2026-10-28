@@ -169,6 +169,35 @@
         path: /Audio/Weapons/Guns/Gunshots/grenade_launcher.ogg
 
 
+- type: entity
+  name: Waybreaker
+  parent: BaseWeaponLauncher
+  id: M14Waybreaker
+  description: A weapon from a bygone era. Who knows how it ended up here. It always seems to have a shot prepared.
+  components:
+    - type: Sprite
+      sprite: Objects/Weapons/Guns/Launchers/pirate_cannon.rsi
+      layers:
+        - state: icon
+          map: ["enum.GunVisualLayers.Base"]
+    - type: Battery
+      maxCharge: 600
+      startingCharge: 300
+    - type: ProjectileBatteryAmmoProvider
+      proto: BulletCannonBall
+      fireCost: 100
+    - type: BatterySelfRecharger
+      autoRecharge: true
+      autoRechargeRate: 10
+    - type: Clothing
+      sprite: Objects/Weapons/Guns/Launchers/pirate_cannon.rsi
+    - type: Gun
+      fireRate: 1
+      soundGunshot:
+        path: /Audio/Weapons/Guns/Gunshots/mateba.ogg
+
+
+
 
 - type: entity
   name: tether gun
