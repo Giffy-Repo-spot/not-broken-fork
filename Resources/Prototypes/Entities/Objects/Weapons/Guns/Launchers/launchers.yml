@@ -191,8 +191,11 @@
       autoRechargeRate: 10
     - type: Clothing
       sprite: Objects/Weapons/Guns/Launchers/pirate_cannon.rsi
+      slots:
+        - Back
+        - suitStorage
     - type: Gun
-      fireRate: .5
+      fireRate: 0.5
       soundGunshot:
         path: /Audio/Weapons/Guns/Gunshots/mateba.ogg
 
