@@ -355,7 +355,6 @@
     items:
     - id: N14WeaponSMG10mm
     - id: N14MagazineSMG10mm
-    - id: WeaponLauncherPirateCannon
       amount: 4
     - id: N14TribalClub
     - id: N14WeaponRevolver44TribalUpgraded
