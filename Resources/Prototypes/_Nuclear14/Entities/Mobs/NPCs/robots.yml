@@ -765,7 +765,7 @@
       path: /Audio/Weapons/Guns/MagIn/batrifle_magin.ogg
   - type: Loadout
     prototypes:
-      - RaiderPistolGear
+      - RaiderPistol1Gear
   - type: HTN
     rootTask:
       task: N14RangedHostileCompound

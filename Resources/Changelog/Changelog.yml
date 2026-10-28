@@ -12608,3 +12608,20 @@ Entries:
   id: 6534
   time: '2026-10-25T21:30:30.0000000+00:00'
   url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/2117
+- author: Wassuy
+  changes:
+    - type: Tweak
+      message: Feral ghoul reaver now had a bit of armor.
+    - type: Tweak
+      message: Raiders now open doors, don't cheese em!
+    - type: Tweak
+      message: Raiders overall accurcy had been nerfeds
+    - type: Tweak
+      message: Raiders eyesights had been reduced
+    - type: Fix
+      message: Fixed Raiders now have some gloves.
+    - type: Fix
+      message: Fixed Now certain raiders have their gun sprite fixed
+  id: 6535
+  time: '2026-10-28T02:06:41.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1975
