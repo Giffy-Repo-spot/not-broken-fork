@@ -412,6 +412,7 @@
     - id: N14WeaponSMG10mm
     - id: N14MagazineSMG10mm
       amount: 4
+    - id: M14Waybreaker
     - id: N14WeaponRevolver44TribalUpgraded
     - id: SpeedLoader44
       amount: 2
