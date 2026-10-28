@@ -185,14 +185,14 @@
       startingCharge: 300
     - type: ProjectileBatteryAmmoProvider
       proto: BulletCannonBall
-      fireCost: 300
+      fireCost: 150
     - type: BatterySelfRecharger
       autoRecharge: true
       autoRechargeRate: 10
     - type: Clothing
       sprite: Objects/Weapons/Guns/Launchers/pirate_cannon.rsi
     - type: Gun
-      fireRate: 6
+      fireRate: .1
       soundGunshot:
         path: /Audio/Weapons/Guns/Gunshots/mateba.ogg
 
